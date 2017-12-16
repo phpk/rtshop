@@ -1,7 +1,0 @@
-name = {%name%}
-title = 插件名称
-intro = qya插件
-author = yourname
-website = http://www.qya.cn
-version = 1.0.0
-state = 1
